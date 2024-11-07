@@ -1,0 +1,13 @@
+.main-img {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+}
